@@ -38,7 +38,7 @@ The bench uses magnet pairs on the bench top and legs to hold the bench in the s
 
 Unfortunately this step is going to be a little different for each sheet of ply (or even each bench from the same sheet). After doing a first pass around the base plates at .3" I check the surface. Sometimes I get lucky and .3" lands right in the middle of a veneer and then I can switch to the 1/2" bit and bore out the rest of the base. Sometimes I'm not so lucky and I'll make another pass at .32" or .35" and keep going till I land in the middle of a veneer. The only reason I start at .3" is that my compression bit doesn't start compressing until then.
 
-#### The Tops of the Legs test
+#### The Tops of the Legs test again
 *Setting the Grid.* The blue guide in the [shaper svg](_leg-top.svg) should roughly represent the dimensions of the top of each leg. I created the guide so that you can create a grid and index the bottom left (or whatever corner) of the grid with the bottom left corner of the digital image. The guide has an 18mm thickness so if your stock is thinner you might consider changing the digital file to match. This usually works out of the box as most stock I buy is around 17.7mm-18.2mm. By building the tenon always slightly smaller than the stock, we can ensure a good fit.
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
